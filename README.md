@@ -90,6 +90,27 @@ http://localhost:8080
 
 ---
 
+---
+
+## Live Demo
+
+**Cloudflare Pages (Production):**  
+https://nail-salon-docker-stack.pages.dev
+
+This site is automatically deployed from the `main` branch via GitHub integration with Cloudflare Pages.
+
+---
+
+## Deployment (Cloudflare Pages)
+
+**Platform:** Cloudflare Pages  
+**Build type:** Static site  
+**Build output directory:** `frontend`  
+**Branch:** `main`
+
+---
+
+
 ## Project Structure
 
 ```
