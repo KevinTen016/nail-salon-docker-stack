@@ -19,41 +19,7 @@ This project demonstrates clean layout structure, responsive design, and a simpl
 
 ---
 
----
 
-## Screenshots
-
-### Desktop — Hero Section
-![Hero Desktop](docs/01-hero-desktop.jpg)
-
-### Mobile — Hero Section
-![Hero Mobile](docs/01-hero-mobile.jpg)
-
-### Desktop — Gallery Carousel
-![Gallery Desktop](docs/02-gallery-carousel-desktop.jpg)
-
-### Mobile — Gallery Carousel
-![Gallery Mobile](docs/02-gallery-carousel-mobile.jpg)
-
-### Desktop — Services & Pricing
-![Services Desktop](docs/03-services-pricing-section-desktop.jpg)
-
-### Mobile — Services & Pricing
-![Services Mobile](docs/03-services-pricing-section-mobile.jpg)
-
-### Desktop — Contact & Map
-![Contact Desktop](docs/04-contact-form-location-map-desktop.jpg)
-
-### Mobile — Contact & Map
-![Contact Mobile](docs/04-contact-form-location-map-mobile.jpg)
-
-### Desktop — Appointment Form
-![Form Desktop](docs/05-termin-form-desktop.jpg)
-
-### Mobile — Appointment Form
-![Form Mobile](docs/05-termin-form-mobile.jpg)
-
----
 
 ## Tech Stack
 
